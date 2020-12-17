@@ -1,7 +1,7 @@
 1. DESCRIPTION
 
 The package includes a DOC folder containing the report writeup in PDF format and the final poster also in PDF format.
-The CODE folder includes the Power BI dashboard project (team026finaldashboard.pbix) and the Jupyter Notebook (team026code.ipynb) that cleaned the data to produce the final dataset. The final dataset (team026finaldataset.csv) along with the original dataset (team026data.zip) can be downloaded from https://drive.google.com/drive/folders/1SWPaYnj4HAyeM6yN6fqpKC0sAOWj_IfA?usp=sharing. 
+The CODE folder includes the Jupyter Notebook (team026code.ipynb) that cleaned the data to produce the final dataset. The final dataset (team026finaldataset.csv) along with the original dataset (team026data.zip) and the final Power BI dashboard (team026finaldashboard.pbix) can be downloaded from https://drive.google.com/drive/folders/1SWPaYnj4HAyeM6yN6fqpKC0sAOWj_IfA?usp=sharing.
 
 
 2. INSTALLATION
@@ -16,11 +16,11 @@ The CODE folder includes the Power BI dashboard project (team026finaldashboard.p
 	For Power BI Visualization Final Project:
 		a) Download the Microsoft Power BI Desktop software from the Microsoft website: https://www.microsoft.com/en-us/download/details.aspx?id=58494
 		b) Follow the Microsoft download process for your computer
-		c) Open the "team026finaldashboard.pbix" Power BI dashboard from the CODE folder
+		c) Open the "team026finaldashboard.pbix" Power BI dashboard from the linked Google Drive folder mentioned in the Description.
 		d) All done; feel free to explore the dashboard
 
 		OPTIONAL STEPS - if you encounter errors when viewing the Power BI file, follow these additional steps to resolve
-		a) Open the "team026finaldashboard.pbix" Power BI dashboard from the CODE folder
+		a) Open the "team026finaldashboard.pbix" Power BI dashboard from the Google Drive folder mentioned in the Description.
 		b) In the top ribbon, near the middle, there is a "spreadsheet with a pencil" icon. Click on the drop-down caret/arrow next to this icon.
 		c) Click on "Data source settings" then click on "Change Source..."
 		d) Click "Browse..." to change the data source to the "team026finaldataset.csv" file downloaded from the link provided in the Description.
